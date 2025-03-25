@@ -6,7 +6,6 @@
  ## Code
  [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/TristanLiSl/Programming-II-generated-draft/badge)](https://scorecard.dev/viewer/?uri=github.com/TristanLiSl/Programming-II-generated-draft) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10246/badge)](https://www.bestpractices.dev/projects/10246)
 
-
 ## Programming-II-Final-Assignment-Draft
 
 
